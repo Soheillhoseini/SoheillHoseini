@@ -5,7 +5,13 @@ Cybersecurity & Network Enthusiast | Python Developer | Home Lab Explorer
 🔹 Passionate about building secure networks, automating tasks, and hands-on learning. Sharing labs, scripts, and experiments to help the community grow.
 
 ⸻
+🎓 Certificates(self learned)
 
+Comptia A+
+Comptia Network+
+MCSA
+
+Comptia
 🛠️ Tech Stack & Skills
 
 Category Tools & Skills
